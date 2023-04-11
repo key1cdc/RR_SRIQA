@@ -1,0 +1,1 @@
+The images are  collected from the QADS database introduced in "Visual Quality Assessment for Super-Resolved Images: Database and Method (F. Zhou et. al., TIP19')"
